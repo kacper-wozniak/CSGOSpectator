@@ -11,4 +11,4 @@ RESTful API + WebSocket Server
 - SendGrid
 
 ### iOS application: 
-https://github.com/blstream/CSSpectator_iOS
+https://github.com/blstream/CSGOSpectator_iOS
